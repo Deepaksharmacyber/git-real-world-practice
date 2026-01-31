@@ -1,2 +1,2 @@
-Version 1
-Login feature added
+Version 2
+Hotfix on main branch
