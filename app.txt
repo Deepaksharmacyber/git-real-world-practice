@@ -1,2 +1,2 @@
 Version 2
-Improved login validation
+Improved login validations
