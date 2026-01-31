@@ -1,2 +1,2 @@
-Version 2
-Improved login validations
+User profile feature added
+Profile validation pending
